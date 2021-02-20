@@ -3,7 +3,6 @@ import { Button, Nav,  Navbar, FormControl, Form, NavDropdown } from 'react-boot
 
 const MyNavbar = () => {
     return (
-      
       <Navbar bg="light" expand="lg">
         <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
